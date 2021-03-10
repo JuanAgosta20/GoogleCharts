@@ -1,0 +1,38 @@
+Adriana Nannini	116	101	15	95	27
+Agustin Roy	2	2	0	0	24
+Angel Almada 	211	203	8	110	9
+Ariana Temporetti	13	4	9	305	213
+Ariel Alejandro Deasis	17	11	6	358	144
+Bárbara López Bordoy	52	28	24	151	76
+Bernardo Vidal	1	1	0	0	43
+Bruno Jesus Ramos	6	4	2	352	141
+Cristian Caravajal	7	1	6	582	501
+David Feliciano	16	5	11	319	224
+Diego Fernando Arroyo	3	3	0	0	26
+Eliana Bodan	17	12	5	173	56
+Elias Carrera	181	174	7	871	38
+Erich Herman	9	8	1	118	28
+Eugenia Armellini	4	4	0	0	2
+Federico Casolla	7	4	3	215	95
+Federico Muñoz	60	46	14	139	38
+Fernando Fullana	49	48	1	99	24
+Florencia  Molina	8	5	3	157	60
+Florencia Mercado	174	164	10	263	28
+Franco Boretto	229	228	1	115	6
+Gonzalo Manzelli	183	176	7	109	14
+Gustavo Mendez	17	15	2	113	34
+Hugo Iglesias	27	26	1	801	33
+Ivan Tomassi	2	2	0	0	0
+Joaquín Ferreyra	64	34	30	416	203
+Leandro Andres Mosqueda	18	11	7	236	101
+Luciano Bustos	1	0	1	334	334
+Marcelo Daniel Maisonavo	11	6	5	571	267
+Marcos Alejandro 	9	9	0	0	0
+Maria Paz Roca	15	12	3	551	115
+Martín Garmendia	60	14	46	861	672
+Matias Capiak	56	41	15	294	99
+Roberto Vega	100	99	1	74	10
+Rubén Darío Avila	34	32	2	1291	85
+Santiago Farah	66	66	0	0	16
+Sergio Cornejo	72	67	5	196	15
+Yael Nazar	7	7	0	0	24

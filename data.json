@@ -1,0 +1,306 @@
+[
+    {
+      "Usuario": "Adriana Nannini",
+      "TotalRevisado": 116,
+      "RevisadosATiempo": 101,
+      "ExcedidosDeTiempo": 15,
+      "PromedioDeDesvio": 95,
+      "PromedioTotalDeHoras": 27
+    },
+    {
+      "Usuario": "Agustin Roy",
+      "TotalRevisado": 2,
+      "RevisadosATiempo": 2,
+      "ExcedidosDeTiempo": 0,
+      "PromedioDeDesvio": 0,
+      "PromedioTotalDeHoras": 24
+    },
+    {
+      "Usuario": "Angel Almada ",
+      "TotalRevisado": 211,
+      "RevisadosATiempo": 203,
+      "ExcedidosDeTiempo": 8,
+      "PromedioDeDesvio": 110,
+      "PromedioTotalDeHoras": 9
+    },
+    {
+      "Usuario": "Ariana Temporetti",
+      "TotalRevisado": 13,
+      "RevisadosATiempo": 4,
+      "ExcedidosDeTiempo": 9,
+      "PromedioDeDesvio": 305,
+      "PromedioTotalDeHoras": 213
+    },
+    {
+      "Usuario": "Ariel Alejandro Deasis",
+      "TotalRevisado": 17,
+      "RevisadosATiempo": 11,
+      "ExcedidosDeTiempo": 6,
+      "PromedioDeDesvio": 358,
+      "PromedioTotalDeHoras": 144
+    },
+    {
+      "Usuario": "Bárbara López Bordoy",
+      "TotalRevisado": 52,
+      "RevisadosATiempo": 28,
+      "ExcedidosDeTiempo": 24,
+      "PromedioDeDesvio": 151,
+      "PromedioTotalDeHoras": 76
+    },
+    {
+      "Usuario": "Bernardo Vidal",
+      "TotalRevisado": 1,
+      "RevisadosATiempo": 1,
+      "ExcedidosDeTiempo": 0,
+      "PromedioDeDesvio": 0,
+      "PromedioTotalDeHoras": 43
+    },
+    {
+      "Usuario": "Bruno Jesus Ramos",
+      "TotalRevisado": 6,
+      "RevisadosATiempo": 4,
+      "ExcedidosDeTiempo": 2,
+      "PromedioDeDesvio": 352,
+      "PromedioTotalDeHoras": 141
+    },
+    {
+      "Usuario": "Cristian Caravajal",
+      "TotalRevisado": 7,
+      "RevisadosATiempo": 1,
+      "ExcedidosDeTiempo": 6,
+      "PromedioDeDesvio": 582,
+      "PromedioTotalDeHoras": 501
+    },
+    {
+      "Usuario": "David Feliciano",
+      "TotalRevisado": 16,
+      "RevisadosATiempo": 5,
+      "ExcedidosDeTiempo": 11,
+      "PromedioDeDesvio": 319,
+      "PromedioTotalDeHoras": 224
+    },
+    {
+      "Usuario": "Diego Fernando Arroyo",
+      "TotalRevisado": 3,
+      "RevisadosATiempo": 3,
+      "ExcedidosDeTiempo": 0,
+      "PromedioDeDesvio": 0,
+      "PromedioTotalDeHoras": 26
+    },
+    {
+      "Usuario": "Eliana Bodan",
+      "TotalRevisado": 17,
+      "RevisadosATiempo": 12,
+      "ExcedidosDeTiempo": 5,
+      "PromedioDeDesvio": 173,
+      "PromedioTotalDeHoras": 56
+    },
+    {
+      "Usuario": "Elias Carrera",
+      "TotalRevisado": 181,
+      "RevisadosATiempo": 174,
+      "ExcedidosDeTiempo": 7,
+      "PromedioDeDesvio": 871,
+      "PromedioTotalDeHoras": 38
+    },
+    {
+      "Usuario": "Erich Herman",
+      "TotalRevisado": 9,
+      "RevisadosATiempo": 8,
+      "ExcedidosDeTiempo": 1,
+      "PromedioDeDesvio": 118,
+      "PromedioTotalDeHoras": 28
+    },
+    {
+      "Usuario": "Eugenia Armellini",
+      "TotalRevisado": 4,
+      "RevisadosATiempo": 4,
+      "ExcedidosDeTiempo": 0,
+      "PromedioDeDesvio": 0,
+      "PromedioTotalDeHoras": 2
+    },
+    {
+      "Usuario": "Federico Casolla",
+      "TotalRevisado": 7,
+      "RevisadosATiempo": 4,
+      "ExcedidosDeTiempo": 3,
+      "PromedioDeDesvio": 215,
+      "PromedioTotalDeHoras": 95
+    },
+    {
+      "Usuario": "Federico Muñoz",
+      "TotalRevisado": 60,
+      "RevisadosATiempo": 46,
+      "ExcedidosDeTiempo": 14,
+      "PromedioDeDesvio": 139,
+      "PromedioTotalDeHoras": 38
+    },
+    {
+      "Usuario": "Fernando Fullana",
+      "TotalRevisado": 49,
+      "RevisadosATiempo": 48,
+      "ExcedidosDeTiempo": 1,
+      "PromedioDeDesvio": 99,
+      "PromedioTotalDeHoras": 24
+    },
+    {
+      "Usuario": "Florencia  Molina",
+      "TotalRevisado": 8,
+      "RevisadosATiempo": 5,
+      "ExcedidosDeTiempo": 3,
+      "PromedioDeDesvio": 157,
+      "PromedioTotalDeHoras": 60
+    },
+    {
+      "Usuario": "Florencia Mercado",
+      "TotalRevisado": 174,
+      "RevisadosATiempo": 164,
+      "ExcedidosDeTiempo": 10,
+      "PromedioDeDesvio": 263,
+      "PromedioTotalDeHoras": 28
+    },
+    {
+      "Usuario": "Franco Boretto",
+      "TotalRevisado": 229,
+      "RevisadosATiempo": 228,
+      "ExcedidosDeTiempo": 1,
+      "PromedioDeDesvio": 115,
+      "PromedioTotalDeHoras": 6
+    },
+    {
+      "Usuario": "Gonzalo Manzelli",
+      "TotalRevisado": 183,
+      "RevisadosATiempo": 176,
+      "ExcedidosDeTiempo": 7,
+      "PromedioDeDesvio": 109,
+      "PromedioTotalDeHoras": 14
+    },
+    {
+      "Usuario": "Gustavo Mendez",
+      "TotalRevisado": 17,
+      "RevisadosATiempo": 15,
+      "ExcedidosDeTiempo": 2,
+      "PromedioDeDesvio": 113,
+      "PromedioTotalDeHoras": 34
+    },
+    {
+      "Usuario": "Hugo Iglesias",
+      "TotalRevisado": 27,
+      "RevisadosATiempo": 26,
+      "ExcedidosDeTiempo": 1,
+      "PromedioDeDesvio": 801,
+      "PromedioTotalDeHoras": 33
+    },
+    {
+      "Usuario": "Ivan Tomassi",
+      "TotalRevisado": 2,
+      "RevisadosATiempo": 2,
+      "ExcedidosDeTiempo": 0,
+      "PromedioDeDesvio": 0,
+      "PromedioTotalDeHoras": 0
+    },
+    {
+      "Usuario": "Joaquín Ferreyra",
+      "TotalRevisado": 64,
+      "RevisadosATiempo": 34,
+      "ExcedidosDeTiempo": 30,
+      "PromedioDeDesvio": 416,
+      "PromedioTotalDeHoras": 203
+    },
+    {
+      "Usuario": "Leandro Andres Mosqueda",
+      "TotalRevisado": 18,
+      "RevisadosATiempo": 11,
+      "ExcedidosDeTiempo": 7,
+      "PromedioDeDesvio": 236,
+      "PromedioTotalDeHoras": 101
+    },
+    {
+      "Usuario": "Luciano Bustos",
+      "TotalRevisado": 1,
+      "RevisadosATiempo": 0,
+      "ExcedidosDeTiempo": 1,
+      "PromedioDeDesvio": 334,
+      "PromedioTotalDeHoras": 334
+    },
+    {
+      "Usuario": "Marcelo Daniel Maisonavo",
+      "TotalRevisado": 11,
+      "RevisadosATiempo": 6,
+      "ExcedidosDeTiempo": 5,
+      "PromedioDeDesvio": 571,
+      "PromedioTotalDeHoras": 267
+    },
+    {
+      "Usuario": "Marcos Alejandro ",
+      "TotalRevisado": 9,
+      "RevisadosATiempo": 9,
+      "ExcedidosDeTiempo": 0,
+      "PromedioDeDesvio": 0,
+      "PromedioTotalDeHoras": 0
+    },
+    {
+      "Usuario": "Maria Paz Roca",
+      "TotalRevisado": 15,
+      "RevisadosATiempo": 12,
+      "ExcedidosDeTiempo": 3,
+      "PromedioDeDesvio": 551,
+      "PromedioTotalDeHoras": 115
+    },
+    {
+      "Usuario": "Martín Garmendia",
+      "TotalRevisado": 60,
+      "RevisadosATiempo": 14,
+      "ExcedidosDeTiempo": 46,
+      "PromedioDeDesvio": 861,
+      "PromedioTotalDeHoras": 672
+    },
+    {
+      "Usuario": "Matias Capiak",
+      "TotalRevisado": 56,
+      "RevisadosATiempo": 41,
+      "ExcedidosDeTiempo": 15,
+      "PromedioDeDesvio": 294,
+      "PromedioTotalDeHoras": 99
+    },
+    {
+      "Usuario": "Roberto Vega",
+      "TotalRevisado": 100,
+      "RevisadosATiempo": 99,
+      "ExcedidosDeTiempo": 1,
+      "PromedioDeDesvio": 74,
+      "PromedioTotalDeHoras": 10
+    },
+    {
+      "Usuario": "Rubén Darío Avila",
+      "TotalRevisado": 34,
+      "RevisadosATiempo": 32,
+      "ExcedidosDeTiempo": 2,
+      "PromedioDeDesvio": 1291,
+      "PromedioTotalDeHoras": 85
+    },
+    {
+      "Usuario": "Santiago Farah",
+      "TotalRevisado": 66,
+      "RevisadosATiempo": 66,
+      "ExcedidosDeTiempo": 0,
+      "PromedioDeDesvio": 0,
+      "PromedioTotalDeHoras": 16
+    },
+    {
+      "Usuario": "Sergio Cornejo",
+      "TotalRevisado": 72,
+      "RevisadosATiempo": 67,
+      "ExcedidosDeTiempo": 5,
+      "PromedioDeDesvio": 196,
+      "PromedioTotalDeHoras": 15
+    },
+    {
+      "Usuario": "Yael Nazar",
+      "TotalRevisado": 7,
+      "RevisadosATiempo": 7,
+      "ExcedidosDeTiempo": 0,
+      "PromedioDeDesvio": 0,
+      "PromedioTotalDeHoras": 24
+    }
+   ]
