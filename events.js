@@ -8,8 +8,9 @@ selectJson.addEventListener("change", (event) => {
 
 /*window.onload = function() {
     drawChartJS();
-  };*/
+  };
 
-  window.addEventListener("load", function(event) {
-    drawChartJS();
-  });
+  document.addEventListener('DOMContentLoaded', function() {
+    //drawChart();
+    console.log('asd')
+ }, false);*/

@@ -21,6 +21,7 @@ fetch("./data.json")
         x.add(option);
     });
     console.log('dataset',dataset);
+    drawChartJS();
 })
 
 // Callback that creates and populates a data table,
