@@ -6,6 +6,10 @@ selectJson.addEventListener("change", (event) => {
     drawChartJS();
 });
 
-window.onload = function() {
+/*window.onload = function() {
     drawChartJS();
-  };
+  };*/
+
+  window.addEventListener("load", function(event) {
+    drawChartJS();
+  });
