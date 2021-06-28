@@ -7,6 +7,7 @@
     <title>CHARTS</title>
      <!--Load the AJAX API-->
      <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
      <script type="text/javascript" src="/chart.js"></script>
      
 </head>
@@ -14,6 +15,12 @@
     <!--Div that will hold the pie chart-->
     <div id="PieChart_div"></div>
     <div id="BarChart_div"></div>
+    <div id="ChartWrapper">
+        <canvas id="Chartjs"></canvas>
+    </div>
+    <div id="ChartWrapperPie">
+        <canvas id="ChartjsPie"></canvas>
+    </div>
     <a href="#" download id="pie">Descargar Pie</a>
     <a href="#" download id="bar">Descargar Bars</a>
     <div>
