@@ -1,8 +1,7 @@
 var dataset;
 // Load the Visualization API and the corechart package.
 google.charts.load('current', {'packages':['corechart']});
-// Set a callback to run when the Google Visualization API is loaded.
-google.charts.setOnLoadCallback(drawChart);
+
 //DATA
 //const datos = [['Mushrooms', 3],['Onions', 1],['Olives', 1],['Zucchini', 1],['Pepperoni', 2]];
 
@@ -22,6 +21,8 @@ fetch("./data.json")
     });
     console.log('dataset',dataset);
     drawChartJS();
+    // Set a callback to run when the Google Visualization API is loaded.
+  google.charts.setOnLoadCallback(drawChart);
 })
 
 // Callback that creates and populates a data table,
